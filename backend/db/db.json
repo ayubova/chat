@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "2f24vvg",
+      "login": "user1",
+      "password": "password"
+    },
+    {
+      "id": "d1u9nq",
+      "login": "user2",
+      "password": "password"
+    }
+  ],
+  "messages": [
+    {
+      "message": "hello!",
+      "user": "user1",
+      "time": "2019-03-11T17:28:11.870Z",
+      "id": 1
+    },
+    {
+      "message": "hello)))",
+      "user": "user2",
+      "time": "2019-03-11T17:28:46.802Z",
+      "id": 2
+    },
+    {
+      "message": "hello)))",
+      "user": "user2",
+      "time": "2019-03-11T17:28:55.212Z",
+      "id": 3
+    },
+    {
+      "message": "hello))",
+      "user": "user2",
+      "time": "2019-03-11T17:29:01.214Z",
+      "id": 4
+    },
+    {
+      "message": "hello))",
+      "user": "user2",
+      "time": "2019-03-11T17:29:06.596Z",
+      "id": 5
+    }
+  ]
+}
